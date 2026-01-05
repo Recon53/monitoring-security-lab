@@ -13,9 +13,9 @@
 
 # Monitoring & Security Lab: Ubuntu and Windows
 <p align="center">
-  <img src="https://img.icons8.com/color/96/linux.png" alt="Linux"/>
-  <img src="https://img.icons8.com/color/96/windows-10.png" alt="Windows"/>
-  <img src="https://img.icons8.com/color/96/hacker.png" alt="Security"/>
+  <img src="https://img.icons8.com/color/96/linux.png"/>
+  <img src="https://img.icons8.com/color/96/windows-10.png"/>
+  <img src="https://img.icons8.com/color/96/shield.png"/>
 </p>
 
 ## Overview
