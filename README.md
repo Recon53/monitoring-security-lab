@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github.com/Recon53/monitoring-security-lab/assets/banner-example.png" width="90%" />
+  <img src="https://github.com/Recon53/monitoring-security-lab/assets/banner.png" width="90%" />
 </p>
 
 # Monitoring & Security Lab: Ubuntu and Windows
