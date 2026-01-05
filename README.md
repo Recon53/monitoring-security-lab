@@ -20,6 +20,18 @@
 - Includes screenshots, explanations, and results
 - Demonstrates real ransomware detection workflow
 
+## 📑 Table of Contents
+
+- [Overview](#monitoring--security-lab-ubuntu-and-windows)
+- [Features](#features)
+- [Screenshots](#screenshots)
+- [How to Use This Project](#how-to-use-this-project)
+- [Future Work / Next Steps](#-future-work--next-steps)
+- [Why This Project Matters](#-why-this-project-matters)
+- [Author](#author)
+- [License](#license)
+
+---
 
 # Monitoring & Security Lab: Ubuntu and Windows
 <p align="center">
@@ -161,12 +173,32 @@ These are ideas planned for future versions of this lab:
 
 ---
 
+## 🛠️ Built With
+
+- Ubuntu 22.04
+- Windows 10
+- Sysmon
+- PowerShell
+- Bash
+- ClamAV
+- Fail2ban
+- VirtualBox
+
+---
+
 ## 💡 Why This Project Matters
 
 This project shows how everyday system tools can reveal ransomware behavior,
 suspicious processes, and unusual file activity.  
 It helps students, analysts, and defenders understand what’s happening
 “behind the scenes” when malware runs — and how to spot the signs early.
+
+---
+
+## 📄 License
+
+This project is licensed under the MIT License.  
+See the **LICENSE** file for details.
 
 ---
 
