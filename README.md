@@ -7,6 +7,10 @@
 
 </p>
 
+<p align="center">
+  <img src="https://github.com/Recon53/monitoring-security-lab/assets/banner-example.png" width="90%" />
+</p>
+
 # Monitoring & Security Lab: Ubuntu and Windows
 <p align="center">
   <img src="https://img.icons8.com/color/96/linux.png" alt="Linux"/>
@@ -26,6 +30,18 @@ The objective of this lab was to learn how operating systems:
 The work includes screenshots, explanations, and analysis showing how system tools reveal what is happening “behind the scenes”.
 
 ---
+
+## ✨ Key Features
+
+✔️ Real system monitoring on Ubuntu and Windows  
+✔️ Detection of suspicious processes and ransomware behavior  
+✔️ Comparison of baseline vs. infected file hashes  
+✔️ Use of security tools (Sysmon, ClamAV, Fail2ban, journalctl, Task Manager)  
+✔️ Full report with screenshots, analysis, and conclusions  
+✔️ Demonstrates real-world SOC investigation workflow
+
+---
+
 ## How to Use This Project
 
 This repository is meant for learning and academic research.
@@ -120,6 +136,16 @@ Graduate Cybersecurity Student
 
 ### 📝 How to View the Full Report
 Open the file located in:
+
+---
+
+## 🚀 Future Work / Next Steps
+
+🔹 Add SIEM integration (Splunk / Elastic)  
+🔹 Automate log collection with PowerShell / Bash scripts  
+🔹 Add alerts when suspicious hashes are detected  
+🔹 Expand lab to include cloud monitoring (Azure / AWS)  
+🔹 Build a defensive playbook for incident response
 
 ---
 
