@@ -59,12 +59,12 @@ The work includes screenshots, explanations, and analysis showing how system too
 
 ## Key Features
 
-✔️ Real system monitoring on Ubuntu and Windows  
-✔️ Detection of suspicious processes and ransomware behavior  
-✔️ Comparison of baseline vs. infected file hashes  
-✔️ Use of security tools (Sysmon, ClamAV, Fail2ban, journalctl, Task Manager)  
-✔️ Full report with screenshots, analysis, and conclusions  
-✔️ Demonstrates real-world SOC investigation workflow
+   Real system monitoring on Ubuntu and Windows  
+   Detection of suspicious processes and ransomware behavior  
+   Comparison of baseline vs. infected file hashes  
+   Use of security tools (Sysmon, ClamAV, Fail2ban, journalctl, Task Manager)  
+   Full report with screenshots, analysis, and conclusions  
+   Demonstrates real-world SOC investigation workflow
 
 ---
 
