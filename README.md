@@ -11,6 +11,16 @@
   <img src="banner.png" alt="Monitoring & Security Lab: Ubuntu and Windows">
 </p>
 
+## ✅ Features
+
+- Monitors system performance on Ubuntu & Windows
+- Detects suspicious and abnormal processes
+- Reviews security logs and event history
+- Compares baseline vs ransomware-modified files
+- Includes screenshots, explanations, and results
+- Demonstrates real ransomware detection workflow
+
+
 # Monitoring & Security Lab: Ubuntu and Windows
 <p align="center">
   <img src="https://img.icons8.com/color/96/linux.png"/>
@@ -141,11 +151,22 @@ Open the file located in:
 
 ## 🚀 Future Work / Next Steps
 
+These are ideas planned for future versions of this lab:
+
 🔹 Add SIEM integration (Splunk / Elastic)  
 🔹 Automate log collection with PowerShell / Bash scripts  
 🔹 Add alerts when suspicious hashes are detected  
 🔹 Expand lab to include cloud monitoring (Azure / AWS)  
 🔹 Build a defensive playbook for incident response
+
+---
+
+## 💡 Why This Project Matters
+
+This project shows how everyday system tools can reveal ransomware behavior,
+suspicious processes, and unusual file activity.  
+It helps students, analysts, and defenders understand what’s happening
+“behind the scenes” when malware runs — and how to spot the signs early.
 
 ---
 
