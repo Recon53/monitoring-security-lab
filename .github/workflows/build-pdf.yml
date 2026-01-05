@@ -9,21 +9,19 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-    - name: Checkout repository
-      uses: actions/checkout@v4
+      - name: Checkout repository
+        uses: actions/checkout@v4
 
-    name: Install Pandoc and LaTeX
-    run: |
-      sudo apt-get update
-      sudo apt-get install -y pandoc texlive-latex-base texlive-fonts-recommended texlive-latex-extra librsvg2-bin
+      - name: Install Pandoc and LaTeX
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y pandoc texlive-latex-base texlive-fonts-recommended texlive-latex-extra librsvg2-bin
 
+      - name: Convert README.md to PDF
+        run: pandoc README.md -o report/README.pdf
 
-    - name: Convert README.md to PDF
-      run: pandoc README.md -o report/README.pdf
-
-    - name: Upload PDF artifact
-      uses: actions/upload-artifact@v4
-      with:
-        name: lab-pdf
-        path: report/README.pdf
-        
+      - name: Upload PDF artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: lab-pdf
+          path: report/README.pdf
