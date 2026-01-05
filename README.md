@@ -1,4 +1,18 @@
+<p align="center">
+  
+![Status](https://img.shields.io/badge/Status-Completed-green)
+![Platform](https://img.shields.io/badge/Platforms-Ubuntu%20%7C%20Windows-blue)
+![Category](https://img.shields.io/badge/Focus-Monitoring%20%26%20Security-orange)
+![Ransomware Lab](https://img.shields.io/badge/Lab-Ransomware%20Simulation-red)
+
+</p>
+
 # Monitoring & Security Lab: Ubuntu and Windows
+<p align="center">
+  <img src="https://img.icons8.com/color/96/linux.png" alt="Linux"/>
+  <img src="https://img.icons8.com/color/96/windows-10.png" alt="Windows"/>
+  <img src="https://img.icons8.com/color/96/hacker.png" alt="Security"/>
+</p>
 
 ## Overview
 This project documents a hands-on monitoring and security lab performed using both **Ubuntu Linux** and **Microsoft Windows**.
@@ -10,6 +24,25 @@ The objective of this lab was to learn how operating systems:
 - Protect files from malware such as ransomware  
 
 The work includes screenshots, explanations, and analysis showing how system tools reveal what is happening “behind the scenes”.
+
+---
+## 📸 Screenshots Preview
+
+<p align="center">
+  
+**Ubuntu Monitoring**
+  
+<img src="screenshots/Figure%2001%20—%20top.PNG" width="600"/>
+
+**Windows Monitoring**
+  
+<img src="screenshots/Figure%2010_Windows_TaskManager.PNG" width="600"/>
+
+**Ransomware Comparison**
+  
+<img src="screenshots/Figure%2016_%20Hash%20comparison%20(baseline%20vs%20after).PNG" width="600"/>
+
+</p>
 
 ---
 
