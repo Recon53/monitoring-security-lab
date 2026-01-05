@@ -199,6 +199,20 @@ These are ideas planned for future versions of this lab:
 
 ---
 
+## 📊 Results Summary
+
+During this lab, monitoring tools provided visibility into several key behaviors:
+
+- ✔ Identified suspicious processes running in the background
+- ✔ Observed PowerShell executing unusual commands
+- ✔ Detected changes to multiple files in a short period of time
+- ✔ Compared baseline file hashes vs ransomware-modified hashes
+- ✔ Confirmed ransomware-like behavior without harming the real system
+
+These results demonstrate how logs, process monitors, and hash comparisons help detect ransomware activity early — before major damage occurs.
+
+---
+
 ## 💡 Why This Project Matters
 
 This project shows how everyday system tools can reveal ransomware behavior,
