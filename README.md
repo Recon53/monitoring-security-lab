@@ -147,11 +147,11 @@ Throughout this lab, monitoring tools helped identify:
 ---
 
 ## What This Lab Demonstrates
-✔ How monitoring tools reveal hidden system activity  
-✔ Why logs are critical in cybersecurity  
-✔ How ransomware alters files and system behavior  
-✔ The importance of collecting **baseline data**  
-✔ Real-world investigation techniques used by analysts  
+  How monitoring tools reveal hidden system activity  
+  Why logs are critical in cybersecurity  
+  How ransomware alters files and system behavior  
+  The importance of collecting **baseline data**  
+  Real-world investigation techniques used by analysts  
 
 ---
 
@@ -191,11 +191,11 @@ Open the file located in:
 
 These are ideas planned for future versions of this lab:
 
-🔹 Add SIEM integration (Splunk / Elastic)  
-🔹 Automate log collection with PowerShell / Bash scripts  
-🔹 Add alerts when suspicious hashes are detected  
-🔹 Expand lab to include cloud monitoring (Azure / AWS)  
-🔹 Build a defensive playbook for incident response
+   Add SIEM integration (Splunk / Elastic)  
+   Automate log collection with PowerShell / Bash scripts  
+   Add alerts when suspicious hashes are detected  
+   Expand lab to include cloud monitoring (Azure / AWS)  
+   Build a defensive playbook for incident response
 
 ---
 
@@ -203,11 +203,11 @@ These are ideas planned for future versions of this lab:
 
 During this lab, monitoring tools provided visibility into several key behaviors:
 
-- ✔ Identified suspicious processes running in the background
-- ✔ Observed PowerShell executing unusual commands
-- ✔ Detected changes to multiple files in a short period of time
-- ✔ Compared baseline file hashes vs ransomware-modified hashes
-- ✔ Confirmed ransomware-like behavior without harming the real system
+    Identified suspicious processes running in the background
+    Observed PowerShell executing unusual commands
+    Detected changes to multiple files in a short period of time
+    Compared baseline file hashes vs ransomware-modified hashes
+    Confirmed ransomware-like behavior without harming the real system
 
 These results demonstrate how logs, process monitors, and hash comparisons help detect ransomware activity early — before major damage occurs.
 
