@@ -1,9 +1,9 @@
 ---
-title: "Monitoring & Security Lab: Ubuntu and Windows"
-author: "Miguel Guadalupe"
-date: "`date`"
-subject: "Cybersecurity / Ransomware Monitoring Lab"
-keywords: [Cybersecurity, Ransomware, SIEM, Sysmon, Monitoring]
+ "Monitoring & Security Lab: Ubuntu and Windows"
+ "Miguel Guadalupe"
+ "`date`"
+ "Cybersecurity / Ransomware Monitoring Lab"
+ [Cybersecurity, Ransomware, SIEM, Sysmon, Monitoring]
 ---
 
 <p align="center">
